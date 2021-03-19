@@ -1,3 +1,7 @@
 
 .idea
 .svn
+image
+log
+logs
+util/MySqlUtils.py
