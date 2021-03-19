@@ -2,7 +2,6 @@
 .idea
 .svn
 image
-upload
 log
 logs
 util/MySqlUtils.py
