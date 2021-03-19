@@ -1,0 +1,294 @@
+2020-12-07 20:33:07,133 MySqlUtils INFO 数据库连接sucessfully!
+2020-12-07 20:33:07,134 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杜巍', '2020-12-07 20:33:07', 0)
+2020-12-07 20:33:07,923 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:33:07,924 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李帅z', '2020-12-07 20:33:07', 0)
+2020-12-07 20:33:08,853 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:33:08,854 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('佳莹', '2020-12-07 20:33:08', 0)
+2020-12-07 20:33:09,688 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:33:09,689 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王明明', '2020-12-07 20:33:09', 0)
+2020-12-07 20:33:11,613 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:33:11,614 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('辛济远', '2020-12-07 20:33:11', 0)
+2020-12-07 20:33:12,528 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:33:12,528 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('徐雪洁', '2020-12-07 20:33:12', 0)
+2020-12-07 20:33:13,448 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:35:09,321 MySqlUtils INFO 数据库连接sucessfully!
+2020-12-07 20:35:09,323 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杜巍', '2020-12-07 20:35:09', 0)
+2020-12-07 20:35:10,055 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:35:10,055 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王明明', '2020-12-07 20:35:10', 0)
+2020-12-07 20:35:11,004 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:35:11,004 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('徐雪洁z', '2020-12-07 20:35:11', 0)
+2020-12-07 20:35:11,701 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:35:11,701 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杨新明', '2020-12-07 20:35:11', 0)
+2020-12-07 20:35:12,361 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:35:12,362 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('张静慈', '2020-12-07 20:35:12', 0)
+2020-12-07 20:35:13,041 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:35:13,042 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('张宇园z', '2020-12-07 20:35:13', 0)
+2020-12-07 20:35:13,721 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:35:13,722 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵盼', '2020-12-07 20:35:13', 0)
+2020-12-07 20:35:14,462 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:35:14,462 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('郑皓广', '2020-12-07 20:35:14', 0)
+2020-12-07 20:35:15,122 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:36:00,570 MySqlUtils INFO 数据库连接sucessfully!
+2020-12-07 20:36:00,572 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杜巍', '2020-12-07 20:36:00', 0)
+2020-12-07 20:36:01,220 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:36:01,221 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王明明', '2020-12-07 20:36:01', 0)
+2020-12-07 20:36:01,940 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:36:01,940 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('徐雪洁', '2020-12-07 20:36:01', 0)
+2020-12-07 20:36:03,132 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:36:03,132 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杨新明', '2020-12-07 20:36:03', 0)
+2020-12-07 20:36:03,910 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:36:03,910 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('张静慈', '2020-12-07 20:36:03', 0)
+2020-12-07 20:36:04,580 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:36:04,580 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('张宇园', '2020-12-07 20:36:04', 0)
+2020-12-07 20:36:05,900 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:36:05,901 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵盼', '2020-12-07 20:36:05', 0)
+2020-12-07 20:36:06,700 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:36:06,701 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('郑皓广', '2020-12-07 20:36:06', 0)
+2020-12-07 20:36:07,460 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:07,533 MySqlUtils INFO 数据库连接sucessfully!
+2020-12-07 20:38:07,533 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('曾建伟', '2020-12-07 20:38:07', 0)
+2020-12-07 20:38:08,332 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:08,333 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杜巍', '2020-12-07 20:38:08', 0)
+2020-12-07 20:38:09,133 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:09,133 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王明明', '2020-12-07 20:38:09', 0)
+2020-12-07 20:38:09,857 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:09,858 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('徐雪洁', '2020-12-07 20:38:09', 0)
+2020-12-07 20:38:10,853 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:10,853 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杨新明', '2020-12-07 20:38:10', 0)
+2020-12-07 20:38:11,618 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:11,619 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('张静慈', '2020-12-07 20:38:11', 0)
+2020-12-07 20:38:12,372 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:12,373 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('张宇园', '2020-12-07 20:38:12', 0)
+2020-12-07 20:38:13,103 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:13,103 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵盼', '2020-12-07 20:38:13', 0)
+2020-12-07 20:38:13,939 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:13,939 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('郑皓广', '2020-12-07 20:38:13', 0)
+2020-12-07 20:38:14,815 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:52,983 MySqlUtils INFO 数据库连接sucessfully!
+2020-12-07 20:38:52,984 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('曾建伟', '2020-12-07 20:38:52', 0)
+2020-12-07 20:38:53,735 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:53,735 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杜巍', '2020-12-07 20:38:53', 0)
+2020-12-07 20:38:54,753 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:54,754 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李帅', '2020-12-07 20:38:54', 0)
+2020-12-07 20:38:55,573 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:55,574 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('佳莹', '2020-12-07 20:38:55', 0)
+2020-12-07 20:38:57,093 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:57,094 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王明明', '2020-12-07 20:38:57', 0)
+2020-12-07 20:38:57,813 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:57,814 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('辛济远', '2020-12-07 20:38:57', 0)
+2020-12-07 20:38:59,854 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:38:59,854 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('徐雪洁', '2020-12-07 20:38:59', 0)
+2020-12-07 20:39:00,540 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:39:45,413 MySqlUtils INFO 数据库连接sucessfully!
+2020-12-07 20:39:45,413 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('曾建伟', '2020-12-07 20:39:45', 0)
+2020-12-07 20:39:46,221 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:39:46,222 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杜巍', '2020-12-07 20:39:46', 0)
+2020-12-07 20:39:47,123 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:39:47,123 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王明明', '2020-12-07 20:39:47', 0)
+2020-12-07 20:39:47,955 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:39:47,955 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('徐雪洁', '2020-12-07 20:39:47', 0)
+2020-12-07 20:39:48,752 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:39:48,753 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杨新明', '2020-12-07 20:39:48', 0)
+2020-12-07 20:39:49,412 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:39:49,413 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('张静慈', '2020-12-07 20:39:49', 0)
+2020-12-07 20:39:50,213 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:39:50,214 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('张宇园', '2020-12-07 20:39:50', 0)
+2020-12-07 20:39:50,933 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:39:50,934 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵盼', '2020-12-07 20:39:50', 0)
+2020-12-07 20:39:51,623 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 20:39:51,623 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('郑皓广', '2020-12-07 20:39:51', 0)
+2020-12-07 20:39:52,253 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 21:03:26,974 MySqlUtils INFO 数据库连接sucessfully!
+2020-12-07 21:03:26,976 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('曾建伟', '2020-12-07 21:03:26', 0)
+2020-12-07 21:03:28,110 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 21:03:28,111 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杜巍', '2020-12-07 21:03:28', 0)
+2020-12-07 21:03:29,227 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 21:03:29,228 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李帅', '2020-12-07 21:03:29', 0)
+2020-12-07 21:03:30,349 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 21:03:30,350 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('佳莹', '2020-12-07 21:03:30', 0)
+2020-12-07 21:03:31,465 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 21:03:31,466 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王明明', '2020-12-07 21:03:31', 0)
+2020-12-07 21:03:32,495 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 21:03:32,496 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('辛济远', '2020-12-07 21:03:32', 0)
+2020-12-07 21:03:33,453 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 21:03:33,454 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('徐雪洁', '2020-12-07 21:03:33', 0)
+2020-12-07 21:03:34,493 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:17,798 MySqlUtils INFO 数据库连接sucessfully!
+2020-12-07 22:12:17,800 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('勾涣舒', '2020-12-07 22:12:17', 0)
+2020-12-07 22:12:18,714 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:18,715 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('黄小钒', '2020-12-07 22:12:18', 0)
+2020-12-07 22:12:20,343 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:20,344 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李光通', '2020-12-07 22:12:20', 0)
+2020-12-07 22:12:21,587 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:21,587 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李伟', '2020-12-07 22:12:21', 0)
+2020-12-07 22:12:22,983 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:22,983 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李延泽', '2020-12-07 22:12:22', 0)
+2020-12-07 22:12:23,743 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:23,744 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('孟令页', '2020-12-07 22:12:23', 0)
+2020-12-07 22:12:26,001 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:26,002 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('邱晓英', '2020-12-07 22:12:26', 0)
+2020-12-07 22:12:27,639 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:27,640 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('渠小萌', '2020-12-07 22:12:27', 0)
+2020-12-07 22:12:29,103 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:29,103 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('孙敬懿', '2020-12-07 22:12:29', 0)
+2020-12-07 22:12:31,266 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:31,267 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王茂军', '2020-12-07 22:12:31', 0)
+2020-12-07 22:12:32,029 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:32,030 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王晓雷', '2020-12-07 22:12:32', 0)
+2020-12-07 22:12:32,823 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:32,823 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王岩清', '2020-12-07 22:12:32', 0)
+2020-12-07 22:12:33,623 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:33,623 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('薛超', '2020-12-07 22:12:33', 0)
+2020-12-07 22:12:35,103 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:35,103 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杨富盛', '2020-12-07 22:12:35', 0)
+2020-12-07 22:12:36,463 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:36,463 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('张涛', '2020-12-07 22:12:36', 0)
+2020-12-07 22:12:37,663 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:37,663 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵逢春', '2020-12-07 22:12:37', 0)
+2020-12-07 22:12:38,544 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:38,545 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵高锋', '2020-12-07 22:12:38', 0)
+2020-12-07 22:12:39,503 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:39,504 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵金夺', '2020-12-07 22:12:39', 0)
+2020-12-07 22:12:41,039 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:41,040 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵盼', '2020-12-07 22:12:41', 0)
+2020-12-07 22:12:41,983 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:12:41,984 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('庄东燃', '2020-12-07 22:12:41', 0)
+2020-12-07 22:12:43,425 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:28,401 MySqlUtils INFO 数据库连接sucessfully!
+2020-12-07 22:42:28,403 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('勾涣舒', '2020-12-07 22:42:28', 0)
+2020-12-07 22:42:29,411 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:29,412 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('黄小钒', '2020-12-07 22:42:29', 0)
+2020-12-07 22:42:30,482 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:30,483 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李光通', '2020-12-07 22:42:30', 0)
+2020-12-07 22:42:32,349 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:32,350 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李伟', '2020-12-07 22:42:32', 0)
+2020-12-07 22:42:34,131 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:34,132 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李延泽', '2020-12-07 22:42:34', 0)
+2020-12-07 22:42:35,232 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:35,232 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('孟令页', '2020-12-07 22:42:35', 0)
+2020-12-07 22:42:36,884 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:36,885 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('邱晓英', '2020-12-07 22:42:36', 0)
+2020-12-07 22:42:38,116 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:38,117 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('渠小萌', '2020-12-07 22:42:38', 0)
+2020-12-07 22:42:39,078 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:39,078 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('孙敬懿', '2020-12-07 22:42:39', 0)
+2020-12-07 22:42:40,922 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:40,922 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王茂军', '2020-12-07 22:42:40', 0)
+2020-12-07 22:42:42,693 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:42,693 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王晓雷', '2020-12-07 22:42:42', 0)
+2020-12-07 22:42:45,323 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:45,323 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王岩清', '2020-12-07 22:42:45', 0)
+2020-12-07 22:42:46,406 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:46,407 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('薛超', '2020-12-07 22:42:46', 0)
+2020-12-07 22:42:47,392 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:47,392 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杨富盛', '2020-12-07 22:42:47', 0)
+2020-12-07 22:42:48,351 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:48,352 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('张涛', '2020-12-07 22:42:48', 0)
+2020-12-07 22:42:50,781 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:50,782 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵逢春', '2020-12-07 22:42:50', 0)
+2020-12-07 22:42:52,117 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:52,120 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵高锋', '2020-12-07 22:42:52', 0)
+2020-12-07 22:42:54,591 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:54,592 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵金夺', '2020-12-07 22:42:54', 0)
+2020-12-07 22:42:57,028 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:57,028 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵盼', '2020-12-07 22:42:57', 0)
+2020-12-07 22:42:59,171 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:42:59,172 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('庄东燃', '2020-12-07 22:42:59', 0)
+2020-12-07 22:43:00,072 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:45:37,080 MySqlUtils INFO 数据库连接sucessfully!
+2020-12-07 22:45:37,081 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('刘光泽', '2020-12-07 22:45:37', 0)
+2020-12-07 22:45:39,844 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:45:39,844 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('马亮', '2020-12-07 22:45:39', 0)
+2020-12-07 22:45:42,442 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:38,297 MySqlUtils INFO 数据库连接sucessfully!
+2020-12-07 22:46:38,298 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('勾涣舒', '2020-12-07 22:46:38', 0)
+2020-12-07 22:46:39,031 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:39,032 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('黄小钒', '2020-12-07 22:46:39', 0)
+2020-12-07 22:46:40,959 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:40,960 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李光通', '2020-12-07 22:46:40', 0)
+2020-12-07 22:46:41,782 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:41,783 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李伟', '2020-12-07 22:46:41', 0)
+2020-12-07 22:46:42,521 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:42,521 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李延泽', '2020-12-07 22:46:42', 0)
+2020-12-07 22:46:43,315 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:43,316 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('孟令页', '2020-12-07 22:46:43', 0)
+2020-12-07 22:46:44,660 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:44,661 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('邱晓英', '2020-12-07 22:46:44', 0)
+2020-12-07 22:46:45,885 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:45,886 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('渠小萌', '2020-12-07 22:46:45', 0)
+2020-12-07 22:46:46,641 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:46,641 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('孙敬懿', '2020-12-07 22:46:46', 0)
+2020-12-07 22:46:47,840 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:47,841 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王茂军', '2020-12-07 22:46:47', 0)
+2020-12-07 22:46:49,579 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:49,580 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王晓雷', '2020-12-07 22:46:49', 0)
+2020-12-07 22:46:50,808 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:50,808 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王岩清', '2020-12-07 22:46:50', 0)
+2020-12-07 22:46:52,041 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:52,041 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('薛超', '2020-12-07 22:46:52', 0)
+2020-12-07 22:46:53,029 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:53,029 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杨富盛', '2020-12-07 22:46:53', 0)
+2020-12-07 22:46:53,841 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:53,842 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('张涛', '2020-12-07 22:46:53', 0)
+2020-12-07 22:46:54,641 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:54,641 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵逢春', '2020-12-07 22:46:54', 0)
+2020-12-07 22:46:55,441 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:55,442 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵高锋', '2020-12-07 22:46:55', 0)
+2020-12-07 22:46:57,400 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:57,401 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵金夺', '2020-12-07 22:46:57', 0)
+2020-12-07 22:46:58,941 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:46:58,942 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵盼', '2020-12-07 22:46:58', 0)
+2020-12-07 22:47:00,401 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:00,401 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('庄东燃', '2020-12-07 22:47:00', 0)
+2020-12-07 22:47:02,121 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:26,473 MySqlUtils INFO 数据库连接sucessfully!
+2020-12-07 22:47:26,474 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('勾涣舒', '2020-12-07 22:47:26', 0)
+2020-12-07 22:47:27,512 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:27,513 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('黄小钒', '2020-12-07 22:47:27', 0)
+2020-12-07 22:47:29,472 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:29,473 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李光通', '2020-12-07 22:47:29', 0)
+2020-12-07 22:47:31,873 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:31,873 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李伟', '2020-12-07 22:47:31', 0)
+2020-12-07 22:47:33,473 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:33,474 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('李延泽', '2020-12-07 22:47:33', 0)
+2020-12-07 22:47:33,593 MySqlUtils INFO 数据库连接sucessfully!
+2020-12-07 22:47:33,594 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('刘光泽', '2020-12-07 22:47:33', 0)
+2020-12-07 22:47:34,149 MySqlUtils INFO 数据库连接sucessfully!
+2020-12-07 22:47:34,150 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('刘光泽', '2020-12-07 22:47:34', 0)
+2020-12-07 22:47:35,133 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:35,133 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('孟令页', '2020-12-07 22:47:35', 0)
+2020-12-07 22:47:35,633 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:35,633 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('马亮', '2020-12-07 22:47:35', 0)
+2020-12-07 22:47:35,883 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:35,887 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('马亮', '2020-12-07 22:47:35', 0)
+2020-12-07 22:47:36,553 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:36,553 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('邱晓英', '2020-12-07 22:47:36', 0)
+2020-12-07 22:47:37,473 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:37,798 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:38,055 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:38,055 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('渠小萌', '2020-12-07 22:47:38', 0)
+2020-12-07 22:47:39,653 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:39,654 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('孙敬懿', '2020-12-07 22:47:39', 0)
+2020-12-07 22:47:40,522 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:40,523 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王茂军', '2020-12-07 22:47:40', 0)
+2020-12-07 22:47:41,312 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:41,313 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王晓雷', '2020-12-07 22:47:41', 0)
+2020-12-07 22:47:42,123 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:42,124 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('王岩清', '2020-12-07 22:47:42', 0)
+2020-12-07 22:47:42,914 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:42,914 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('薛超', '2020-12-07 22:47:42', 0)
+2020-12-07 22:47:44,162 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:44,163 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('杨富盛', '2020-12-07 22:47:44', 0)
+2020-12-07 22:47:45,649 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:45,650 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('张涛', '2020-12-07 22:47:45', 0)
+2020-12-07 22:47:48,254 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:48,255 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵逢春', '2020-12-07 22:47:48', 0)
+2020-12-07 22:47:49,995 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:49,996 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵高锋', '2020-12-07 22:47:49', 0)
+2020-12-07 22:47:51,941 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:51,942 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵金夺', '2020-12-07 22:47:51', 0)
+2020-12-07 22:47:52,793 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:52,794 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('赵盼', '2020-12-07 22:47:52', 0)
+2020-12-07 22:47:54,393 MySqlUtils INFO 1条记录插入成功。
+2020-12-07 22:47:54,393 MySqlUtils INFO exec sql is: insert into daka_info (stu_name, upload_time, is_late) values (%s, %s, %s);, val is: ('庄东燃', '2020-12-07 22:47:54', 0)
+2020-12-07 22:47:55,393 MySqlUtils INFO 1条记录插入成功。
