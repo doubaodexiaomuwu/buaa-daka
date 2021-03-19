@@ -4,4 +4,4 @@
 image
 log
 logs
-util/MySqlUtils.py
+./util/MySqlUtils.py
